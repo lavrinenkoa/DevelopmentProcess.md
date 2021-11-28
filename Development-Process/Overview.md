@@ -1,6 +1,6 @@
 # Engenering Process Developing
 
-Опишем процесс разработки на примере waterfall, так как по сути другие процессы разработки построенны на аналогичной базе. Например, путем добавления дополнительных итерационных шагов, возвратов на предыдущие этапы, комбинацией фаз.
+Let's describe the development process using waterfall as an example, since other development processes are built from similar elements. For example, by adding additional iterative steps, returns to previous stages, a combination of phases.
 
 **Development phases:**
 
