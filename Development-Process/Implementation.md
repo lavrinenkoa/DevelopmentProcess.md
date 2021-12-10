@@ -47,5 +47,5 @@ Check points:
 * VMs login and passwords
 
 ---
-[Previus step](Development-infrastructure.md) | [Home](Overview.md) | [Next step](Implementation/Testing.md)
+[Previus step](Development-infrastructure.md) | [Home](Overview.md) | [Next step](Testing.md)
 
