@@ -7,7 +7,7 @@
 Roles:
 * [Customer](Roles.md#customer) - Provide project information, requirements, specification, usecases ant etc.;
 * [PM](Roles.md#project-manager-pm) - Recieve and collect customer project information;
-* [DevOps](Roles.md#devops-engineer-devops) - Create and setup PSA infrastructure to save project documents.
+* [DevOps](Roles.md#devops-engineer-devops) - Create and setup Company infrastructure to save project documents.
 
 Input objects:
 * Customer name;
@@ -19,9 +19,9 @@ Input objects:
 * Other customer information;
 
 Tasks:
-* Create shared project folders on PSA servers ([DevOps](Roles.md#devops-engineer-devops));
+* Create shared project folders on Company servers ([DevOps](Roles.md#devops-engineer-devops));
 * Setup permission and access level ([DevOps](Roles.md#devops-engineer-devops));
-* Collect all known information from customer on PSA shared folders ([PM](Roles.md#project-manager-pm));
+* Collect all known information from customer on Company shared folders ([PM](Roles.md#project-manager-pm));
 
 Output objects:
 * Project Opportunity network folders with:
@@ -32,7 +32,7 @@ Output objects:
    * Other customer documentation;
 
 Check points:
-* Check the path and content of PSA network folder.
+* Check the path and content of Company network folder.
 
 ---
 [Home](Overview.md) | [Next step](Requirements-analysis.md)
